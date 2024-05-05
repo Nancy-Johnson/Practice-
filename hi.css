@@ -1,0 +1,37 @@
+.outer-box{
+    width: 500px;
+    height: 500px;
+    background:rebeccapurple;
+}
+
+.box1{
+    width: 20%;
+    height: 50%;
+    background: grey;
+    float: left;
+    margin: 10px;
+}
+
+.box2{
+    width: 20%;
+    height: 50%;
+    background: yellow;
+   float: left;
+   margin: 10px;
+}
+
+.box3{
+    width: 20%;
+    height: 50%;
+    background: green;
+    float: left;
+    margin: 10px;
+}
+
+.box4{
+    width: 20%;
+    height: 50%;
+    background: red;
+    float: left;
+    margin: 10px;
+}
