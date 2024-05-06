@@ -17,7 +17,8 @@ body{
 
 .login{
     float: left;
-    float: left;
+    padding-top: 5px;
+    padding-left:45px;
 }
 
 .logo-text{
@@ -37,5 +38,46 @@ body{
 
 .login-label{
     color: white;
+    font-size: 11px;
     
+}
+
+.forgetten{
+    font-size: 11px;
+    color: white;
+     text-decoration: none;
+}
+
+.button{
+    background-color: rgb(23, 84, 198);
+    color: white;
+    height: 30px;
+    border-color: blue;
+    cursor: pointer;
+}
+
+.button:hover{
+    background: #000;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+.right-section{
+    width: 50%;
+    float: left;
+}
+
+.main-body{
+    background: #e0b1b1;
+    width: 100%;
+    height: 70%;
+}
+
+.image{
+    width: 100%;
+    height: 70%;
+    margin-left: 100px;
 }
